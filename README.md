@@ -1,6 +1,6 @@
 # Linearized Simple Pendulum.
 
-Basic Sketch Processing of a simple pendulum linearized.
+Basic Processing sketch of a simple pendulum linearized.
 
 4 ordinary differential equations used:  
 Euler.  
